@@ -1,7 +1,7 @@
 StarDose
 ========
 
-A recommender system for GitHub repositories. Uses `requests` as HTTP client.
+A recommender system for GitHub repositories. Uses [requests](http://docs.python-requests.org/en/latest/) as HTTP client.
 
 * input: a username (to get the repos the user starred)
 * output: other repos the user may be interested in
