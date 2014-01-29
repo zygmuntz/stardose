@@ -43,8 +43,8 @@ popularity = { x: popularity[x] for x in popularity if x not in target_starred }
 ### LOOK AND EDIT HERE ###
 ##########################
 
-# select only less popular repos
-popularity = { x: popularity[x] for x in popularity if data['repos'][x]['stargazers_count'] < 200 }
+# if you want to select only less popular repos...
+# popularity = { x: popularity[x] for x in popularity if data['repos'][x]['stargazers_count'] < 200 }
 
 # downplay popular repos
 # sqrt seems to work well
