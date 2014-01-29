@@ -7,5 +7,6 @@ user = 'username_here'
 auth = ( 'github_username', 'github_password' )
 
 # where to store data
-users_dir = 'users'		# no slashes
+# no slashes at the end
+users_dir = 'users'		
 repos_dir = 'repos'
