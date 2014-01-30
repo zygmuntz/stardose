@@ -10,3 +10,7 @@ Edit `settings.py` and you're ready to run the scripts in order.
 
 You might want to tweak `6_recommendations.py`, see comments in the source.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zygmuntz/stardose/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
